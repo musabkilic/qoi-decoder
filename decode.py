@@ -120,7 +120,7 @@ class Decoder:
 
    def decode(self):
       self.magic()
-      print()
+      self.log()
 
       while self.i < self.n:
          tag = self.readi()

@@ -15,3 +15,10 @@ options:
   --verbose VERBOSE, -v VERBOSE
   --output OUTPUT, -o OUTPUT     output as
 ```
+
+### Testing
+run `sh test.sh` to download and test examples from [qoiformat.org](https://qoiformat.org/qoi_test_images.zip)
+
+#### Reference
+Format: https://qoiformat.org/
+Specification: https://qoiformat.org/qoi-specification.pdf
